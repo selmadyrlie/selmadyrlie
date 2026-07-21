@@ -28,7 +28,7 @@ My name is Selma, and I have a Bachelor in Applied Data Technologies From Oslo M
 <td><strong>Data</strong></td>
 <td>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
 
 </td>
 </tr>
