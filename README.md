@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hello!
+My name is Selma, and I have a Bachelor in Applied Data Technologies From Oslo Metroploitan Univerity :)
 
-<!--
-**selmadyrlie/selmadyrlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,ts,html,css)](https://skillicons.dev)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Frameworks</strong></td>
+<td>
+
+[![My Skills](https://skillicons.dev/icons?i=react,dotnet,bootstrap,jquery)](https://skillicons.dev)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Data</strong></td>
+<td>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,azure)](https://skillicons.dev)
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
+
+### About Me
+My interests include Visual arts, reading Fantasy books and graphic novels :3
+
+
+## Contact Me
+Email: selmadyrlie@gmail.com
